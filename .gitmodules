@@ -1,0 +1,3 @@
+[submodule "Assets/block-resources"]
+	path = Assets/block-resources
+	url = git@github.com:TakanoriHosoya/block-resources.git

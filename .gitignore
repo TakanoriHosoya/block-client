@@ -35,5 +35,5 @@ sysinfo.txt
 *.unitypackage
 
 # Others
-Assets/GameAssets/
-Assets/GameAssets.meta
+Assets/block-resources/
+Assets/block-resources.meta
